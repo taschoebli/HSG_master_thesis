@@ -1,27 +1,45 @@
 # HSG_master_thesis by Luzi Schöb
 # CHRONOS, MOIRAI, DeepAR versus LSTM - A Comparative Study on Photovoltaic Power Forecasting
-Repository for jupyter notebook files where the development of all models for the time series forecasting master thesis are stored
+Repository for jupyter notebook files where the development of all models for the time series forecasting master thesis are stored.
 ## Experimental Results
+[5.1 LSTM Baseline Model Results](jupyter_notebooks/LSTM_Baseline.ipynb)
+
+[5.2 DeepAR Model Results](jupyter_notebooks/DeepAR_Adjusted_to_LSTM_Baseline.ipynb)
+
+[5.3 MOIRAI Model Results](jupyter_notebooks/master_thesis_master_file.ipynb)
+
+[5.4 MOIRAI Model Results - Specific Day](jupyter_notebooks/lstm_deepAR_moirai_spec_day_master_thesis_master_file.ipynb)
+
+[5.5 MOIRAI Model Results - Fine Tuning](jupyter_notebooks/uni2ts_fineTuned.ipynb)
+
+[5.6 UNISOLAR Dataset Results](jupyter_notebooks/master_thesis_master_file_unisolar.ipynb)
+
+[5.7 LSTM, DeepAR & MOIRAI Model Results - Specific Day](jupyter_notebooks/lstm_deepAR_moirai_spec_day_master_thesis_master_file.ipynb)
+
+[5.8 LSTM, DeepAR & MOIRAI Model Results - Specific Day - Ablation Study](jupyter_notebooks/lstm_deepAR_moirai_spec_day_master_thesis_master_file_ablation_study.ipynb)
+
+[5.9 LSTM, DeepAR & MOIRAI - Specific Day - ETTH1](jupyter_notebooks/lstm_deepAR_moirai_spec_day_master_thesis_master_file_etth1.ipynb)
+
+[5.9.1 Tuned ETTH1](jupyter_notebooks/lstm_deepAR_moirai_spec_day_master_thesis_master_file_etth1_tuned.ipynb)
+
+[5.9.2 LSTM vs CHRONOS](jupyter_notebooks/lstm_deepAR_moirai_chronos_multivariate_etth1_spec_day_master_thesis_master_file.ipynb)
+
+[5.10 LSTM, DeepAR, MOIRAI & CHRONOS Model Results - Specific Days](jupyter_notebooks/lstm_deepAR_moirai_chronos_multivariate_spec_day_master_thesis_master_file.ipynb)
 
 
 ## Experimental Approach
-Below the corresponding sections as described in the thesis are listed
-### Development of CHRONOS Model
-[CHRONOS](jupyter_notebooks/lstm_deepAR_moirai_chronos_multivariate_spec_day_master_thesis_master_file.ipynb)
 
-### Fine-Tuning of the MOIRAI Model
-[MOIRAI Fine-tuned](jupyter_notebooks/MOIRAI_fineTuned.ipynb)
+[4.2 Development of the LSTM Model](jupyter_notebooks/LSTM_Baseline.ipynb)
+
+[4.3 Development of the DeepAR Model](jupyter_notebooks/DeepAR_Adjusted_to_LSTM_Baseline.ipynb)
+
+[4.4 Development of the MOIRAI Model](jupyter_notebooks/MOIRAI_Adjusted_to_LSTM.ipynb)
+
+[4.5 Fine-Tuning of the MOIRAI Model](jupyter_notebooks/MOIRAI_fineTuned.ipynb)
 
 [MOIRAI Fine-tuned YAML Files](https://github.com/taschoebli/uni2ts/tree/main/cli/conf/finetune/model)
 
-### Development of the MOIRAI Model
-[MOIRAI](jupyter_notebooks/MOIRAI_Adjusted_to_LSTM.ipynb)
-
-### Development of the DeepAR Model
-[DeepAR](jupyter_notebooks/DeepAR_Adjusted_to_LSTM_Baseline.ipynb)
-
-### Development of the LSTM Model
-[LSTM_Baseline](jupyter_notebooks/LSTM_Baseline.ipynb)
+[4.8 Development of CHRONOS Model](jupyter_notebooks/lstm_deepAR_moirai_chronos_multivariate_spec_day_master_thesis_master_file.ipynb)
 
 
 ## Datasets
