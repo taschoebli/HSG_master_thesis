@@ -28,6 +28,6 @@ Repository for jupyter notebook files where the development of all models for th
 
 
 ## Datasets
-[230401_250108_PT1H_Solcast_reduced_features](datasets/230401_250108_PT1H_Solcast_reduced_features.csv)<br>
-[200101_220423_PT1H_Unisolar](datasets/200101_220423_PT1H_Unisolar.csv)<br>
-[160701_180626_ETTh1](datasets/160701_180626_ETTh1.csv)<br>
+[230401_250108_PT1H_Solcast_reduced_features.csv](datasets/230401_250108_PT1H_Solcast_reduced_features.csv)<br>
+[200101_220423_PT1H_Unisolar.csv](datasets/200101_220423_PT1H_Unisolar.csv)<br>
+[160701_180626_ETTh1.csv](datasets/160701_180626_ETTh1.csv)<br>
