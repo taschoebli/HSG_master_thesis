@@ -1,5 +1,5 @@
 # HSG_master_thesis by Luzi Schöb
-# CHRONOS, MOIRAI, DeepAR versus LSTM - A Comparative Study on Photovoltaic Power Forecasting
+# Comparative Study of Transformer-Based and Traditional Deep Learning Models for Time-Series Forecasting
 Repository for jupyter notebook files where the development of all models for the time series forecasting master thesis are stored.
 ## Experimental Results
 [5.1 LSTM Baseline Model Results](jupyter_notebooks/LSTM_Baseline.ipynb)<br>
